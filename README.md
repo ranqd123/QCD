@@ -30,3 +30,10 @@ The core logic of both scripts requires **only the Python Standard Library** (`m
 ```bash
 # Optional: Install matplotlib to generate figures
 pip install matplotlib
+
+## 🚀 Quick Start
+
+### 1. SU(3) Algebraic & One-Loop Pipeline
+```bash
+python su3_full_pipeline.py
+
