@@ -67,11 +67,14 @@ The simulations provided here are *effective minimal models* designed to reprodu
 If you use this code or the accompanying theoretical framework in your research, please cite our paper:
 
 ```bibtex
-@article{YourLastName2026QCD,
-  title = {An Effective Medium Field Theory Framework: Elastic Mode—SU(3) Algebraic Correspondence, Soft-Wall Confinement, and Retarded Negative Running},
-  author = {Your Name},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
-  year = {2026}
+@software{Ran_QCD_SU3_2026,
+  author = {Ran, QiDong},
+  title = {QCD: SU(3) Algebraic Correspondence and One-Loop Recalculation Pipeline},
+  year = {2026},
+  publisher = {Zenodo},
+  version = {v1},
+  doi = {10.5281/zenodo.24133353},
+  url = {https://doi.org/10.5281/zenodo.24133353}
 }
 ```
 
