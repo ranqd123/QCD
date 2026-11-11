@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or the framework in your research, please cite the accompanying paper."
+authors:
+  - family-names: "Your Last Name"
+    given-names: "Your First Name"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "QCD: SU(3) Algebraic Correspondence and One-Loop Recalculation Pipeline"
+version: 1.0.0
+date-released: 2026-11-11
+url: "https://github.com/ranqd123/QCD"
