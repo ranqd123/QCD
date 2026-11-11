@@ -1,5 +1,11 @@
-```text
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
-python_measurements/
+*.py[cod]
+*$py.class
+
+# Generated data and figures
 su3_pipeline_data/
+python_measurements/
+*.csv
+*.png
+*.pdf
