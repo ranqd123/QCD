@@ -1,0 +1,3 @@
+# Core code requires only the Python Standard Library.
+# Optional: for generating publication-quality figures.
+matplotlib>=3.0
