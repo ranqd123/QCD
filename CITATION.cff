@@ -1,10 +1,17 @@
 cff-version: 1.2.0
-message: "If you use this code or the framework in your research, please cite the accompanying paper."
+message: "If you use this code or the accompanying theoretical framework in your research, please cite the paper below."
 authors:
-  - family-names: "Your Last Name"
-    given-names: "Your First Name"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Ran"
+    given-names: "QiDong"
 title: "QCD: SU(3) Algebraic Correspondence and One-Loop Recalculation Pipeline"
 version: 1.0.0
 date-released: 2026-11-11
 url: "https://github.com/ranqd123/QCD"
+preferred-citation:
+  type: article
+  title: "An Effective Medium Field Theory Framework: Elastic Mode—SU(3) Algebraic Correspondence, Soft-Wall Confinement, and Retarded Negative Running"
+  authors:
+    - family-names: "Ran"
+      given-names: "QiDong"
+  journal: "arXiv preprint"
+  year: 2026
